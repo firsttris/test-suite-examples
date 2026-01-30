@@ -1,0 +1,17 @@
+{
+  "name": "mono-vitest-and-jest",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@vitest/coverage-v8": "^4.0.18",
+    "jest": "^30.2.0",
+    "vitest": "^4.0.18"
+  }
+}
